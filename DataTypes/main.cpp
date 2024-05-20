@@ -1,8 +1,10 @@
 ﻿#include<iostream>
 using namespace std;
+
 using std::endl;
 using std::cin;
 using std::cout;
+
 //#define TASK1
 //#define TASK2
 //#define TASK3
